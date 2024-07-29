@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Jetpack Compose
-- 👯 I’m looking to collaborate with other Developers
-- 🤔 I’m looking for help with Fingerprint Extraction with mobile camera
-- 💬 Ask me about mobile application deveplment
+- 🔭 Currently working on: Mobile Application Development
+- 👯 Looking to collaborate with: Other developers on innovative mobile app projects
+- 🤔 Seeking assistance with: Fingerprint Extraction using mobile cameras
+- 💬 Ask me about: Mobile Application Development, Jetpack Compose, Kotlin, Android Development, Flutter and React-Native
 - 📫 How to reach me: [LinkedIn Profile] https://www.linkedin.com/in/muhammad-ahmad-6a201a1b4/
-- ⚡ Fun fact: I love to code
+- ⚡ I love to code and am passionate about creating cutting-edge mobile applications
 
 ---
 
