@@ -10,6 +10,14 @@
 - ⚡ Fun fact: ...
 
 <hr/>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,flutter,react,firebase,figma,github,androidstudio,nodejs)](https://skillicons.dev)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-ahmad175&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-ahmad175&theme=aura_dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m-ahmad175&theme=aura_dark&utcOffset=8)
+
+
+
   
 
